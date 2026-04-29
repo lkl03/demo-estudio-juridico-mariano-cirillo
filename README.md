@@ -1,2 +1,7 @@
-# demo-estudio-juridico-mariano-cirillo
-Demo web para ESTUDIO JURÍDICO MARIANO CIRILLO — diseñada por eterlab.
+# ESTUDIO JURÍDICO MARIANO CIRILLO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
